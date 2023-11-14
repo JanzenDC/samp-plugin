@@ -1,1 +1,1 @@
-mirage.samp-ph.com:7777 logomirage
+mirage.samp-ph.com 7777 logomirage
