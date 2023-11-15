@@ -2,3 +2,8 @@
 51.79.141.194:7777 = logomirage
 mirage.samp-ph.com:7777 = logomirage
 [mirage.samp-ph.com:7777] = logomirage
+
+[51.79.141.194:7777] = https://raw.githubusercontent.com/JanzenDC/samp-plugin/main/custom-logos/Logomirage.png
+51.79.141.194:7777 = https://raw.githubusercontent.com/JanzenDC/samp-plugin/main/custom-logos/Logomirage.png
+mirage.samp-ph.com:7777 = https://raw.githubusercontent.com/JanzenDC/samp-plugin/main/custom-logos/Logomirage.png
+[mirage.samp-ph.com:7777] = https://raw.githubusercontent.com/JanzenDC/samp-plugin/main/custom-logos/Logomirage.png
