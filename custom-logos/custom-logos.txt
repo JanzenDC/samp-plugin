@@ -1,2 +1,4 @@
 [51.79.141.194:7777] = logomirage
 51.79.141.194:7777 = logomirage
+mirage.samp-ph.com:7777 = logomirage
+[mirage.samp-ph.com:7777] = logomirage
