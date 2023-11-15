@@ -1,1 +1,4 @@
+# Default Logo
+logo=logo
+
 mirage.samp-ph.com:7777=logomirage
