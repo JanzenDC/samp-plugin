@@ -1,3 +1,3 @@
-35.186.158.172:7502=socal
 mirage.samp-ph.com:7777=logomirage
+15.235.143.164:17679=vintagerp
 logo=logo
