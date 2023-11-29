@@ -1,3 +1,5 @@
 mirage.samp-ph.com:7777=logomirage
 15.235.143.164:17679=vintagerp
+wgrp.panel.wonderprotect.com:3333=wickedrp
+
 logo=logo
