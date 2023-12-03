@@ -2,5 +2,5 @@ mirage.samp-ph.com:7777=logomirage
 15.235.143.164:17679=vintagerp
 wgrp.panel.wonderprotect.com:3333=wickedrp
 34.142.177.73:7777=corrp
-
+51.79.144.3:7777=atrp
 logo=logo
